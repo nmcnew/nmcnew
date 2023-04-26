@@ -4,7 +4,7 @@
 - Primary Languages: C#, Javascript
 - Favorite Tech: Svelte, Vue, ZeroMQ
 - Hobbies: Fighting Games🎮, Keyboards⌨, Water Bottle Collecting🥤
-- What I'm Learning: Systems Architecture, Terraform, K8, ML
+- What I'm Learning: Systems Architecture, Terraform, K8, ML, Authentication and Authorization workflows
 
 # Introduction
 
