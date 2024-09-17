@@ -2,7 +2,7 @@
 
 - Name: Nicholas McNew
 - Primary Languages: C#, Javascript
-- Favorite Tech (Libraries, Frameworks, etc.): ZeroMQ, Svelte, containers, Typescript, Vite
+- Favorite Tech (Libraries, Frameworks, etc.): ZeroMQ, Svelte, containers, Vite
 - Hobbies: Fighting Games🎮, Keyboards⌨, Water Bottle Collecting🥤
 - What I'm Learning: Systems Architecture, Terraform, K8, ML, Authentication and Authorization workflows
 
